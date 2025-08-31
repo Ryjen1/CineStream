@@ -1,13 +1,13 @@
-# Sample Hardhat Project
+# CineStream – Watch Movies. Earn Tokens.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+A decentralized streaming platform on Lisk Sepolia.
 
-Try running some of the following tasks:
+## 🌐 Live Demo
+👉 [https://cine-stream-5ja9.vercel.app](https://cine-stream-5ja9.vercel.app)
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
+## 📦 Contract
+- **Address**: `0x90C0a87808608bb656dBBe9508B32F5bD071a7a3`
+- **Network**: Lisk Sepolia
+- **GitHub**: [https://github.com/Ryjen1/CineStream](https://github.com/Ryjen1/CineStream)
+
+## 🏆 Built for Lisk Hackathon 2025
